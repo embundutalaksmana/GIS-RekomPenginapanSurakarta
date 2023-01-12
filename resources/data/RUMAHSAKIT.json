@@ -1,0 +1,611 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.81920242100006,
+          -7.5413789879999626,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.81910367100005,
+          -7.5523738179999782,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.78732690600003,
+          -7.5545479259999411,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.83743208100009,
+          -7.5558532179999816,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.84082205600004,
+          -7.5559252949999518,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.86478308300008,
+          -7.5561390719999508,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.84197590700006,
+          -7.558975926999949,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.79078493300005,
+          -7.5595125109999799,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.79268061400006,
+          -7.5604250389999379,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.82626997400007,
+          -7.5616318369999362,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.84240687200008,
+          -7.5621800729999791,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.80984163900007,
+          -7.5626526669999521,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.80125342900004,
+          -7.5634500159999334,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.83608097100006,
+          -7.5644692899999768,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.80535963700004,
+          -7.5658439089999661,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.80721670000008,
+          -7.566484083999967,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.78758416300008,
+          -7.5680903389999798,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.84035812400003,
+          -7.568726518999938,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.83796374300005,
+          -7.573332248999975,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.78872340800007,
+          -7.5734277519999296,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.83509199400004,
+          -7.5746678549999729,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.81825659900005,
+          -7.5750374559999614,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.83104298500007,
+          -7.5814037179999332,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.82281991100007,
+          -7.5827421949999803,
+          0,
+          null
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "NAMOBJ" : " ",
+        "FCODE" : " ",
+        "LCODE" : "GI0020",
+        "REMARK" : "Rumah Sakit Khusus",
+        "METADATA" : " ",
+        "SRS_ID" : " ",
+        "TIPRST" : 0,
+        "JPLYRS" : 2,
+        "ALAMAT" : " "
+      }
+    }
+  ]
+}

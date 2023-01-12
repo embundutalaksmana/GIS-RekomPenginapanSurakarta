@@ -1,0 +1,857 @@
+{
+  "type" : "FeatureCollection",
+  "crs" : {
+    "type" : "name",
+    "properties" : {
+      "name" : "EPSG:4326"
+    }
+  },
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8255647,
+          -7.5742344340000001
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "Tempat" : "Kampung Batik Kauman",
+        "y" : -7.5742344340000001,
+        "x" : 110.8255647
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8163394,
+          -7.5679427700000002
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "Tempat" : "House of Danar Hadi",
+        "y" : -7.5679427700000002,
+        "x" : 110.8163394
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8613316,
+          -7.5650086950000004
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "Tempat" : "Bengawan Solo Park",
+        "y" : -7.5650086950000004,
+        "x" : 110.8613316
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8260689,
+          -7.5764412380000001
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "Tempat" : "Ndalem Suryohamijayan",
+        "y" : -7.5764412380000001,
+        "x" : 110.8260689
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8586366,
+          -7.5646115219999999
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "Tempat" : "Taman Satwa Taru Jurug Surakarta",
+        "y" : -7.5646115219999999,
+        "x" : 110.8586366
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8579929,
+          -7.5661111190000003
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "Tempat" : "Taman Makam Pahlawan Kusuma Bhakti",
+        "y" : -7.5661111190000003,
+        "x" : 110.8579929
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8583587,
+          -7.5698075239999998
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "Tempat" : "Taman Cerdas Pucangsawit",
+        "y" : -7.5698075239999998,
+        "x" : 110.8583587
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8582031,
+          -7.5700415010000004
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "Tempat" : "Taman Sunan Jogo Kali",
+        "y" : -7.5700415010000004,
+        "x" : 110.8582031
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.85788119999999,
+          -7.5701372190000003
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "Tempat" : "Taman Pucang Arum",
+        "y" : -7.5701372190000003,
+        "x" : 110.85788119999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8535682,
+          -7.5707912909999999
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "Tempat" : "Taman Pucangsawit",
+        "y" : -7.5707912909999999,
+        "x" : 110.8535682
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.85346629999999,
+          -7.5731416889999998
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "Tempat" : "Taman Cerdas Puntadewa",
+        "y" : -7.5731416889999998,
+        "x" : 110.85346629999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.847431,
+          -7.5718309469999996
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "Tempat" : "Taman Urban Forest Bengawan Solo",
+        "y" : -7.5718309469999996,
+        "x" : 110.847431
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8392647,
+          -7.5836725239999998
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "Tempat" : "Lapangan Losari",
+        "y" : -7.5836725239999998,
+        "x" : 110.8392647
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8268035,
+          -7.5885911659999996
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "Tempat" : "Makam Mbah Kyai Hasan Minhaj Gabudan",
+        "y" : -7.5885911659999996,
+        "x" : 110.8268035
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.82689999999999,
+          -7.5888464029999998
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "Tempat" : "Makam Kyai Hasan Minhaj",
+        "y" : -7.5888464029999998,
+        "x" : 110.82689999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8267877,
+          -7.5744152329999999
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "Tempat" : "Masjid Agung Kraton Surakarta",
+        "y" : -7.5744152329999999,
+        "x" : 110.8267877
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8287404,
+          -7.5747502430000004
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "Tempat" : "Alun-Alun Lor Surakarta",
+        "y" : -7.5747502430000004,
+        "x" : 110.8287404
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.82847750000001,
+          -7.5758775739999997
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "Tempat" : "Pagelaran kraton surakarta",
+        "y" : -7.5758775739999997,
+        "x" : 110.82847750000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8307306,
+          -7.5719372189999996
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "Tempat" : "Benteng Vastenburg",
+        "y" : -7.5719372189999996,
+        "x" : 110.8307306
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.82825219999999,
+          -7.5686987639999996
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "Tempat" : "Bunker Kuno Zaman Belanda di Balaikota Surakarta",
+        "y" : -7.5686987639999996,
+        "x" : 110.82825219999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8226732,
+          -7.56746506
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "Tempat" : "Pamedan Mangkunegaran",
+        "y" : -7.56746506,
+        "x" : 110.8226732
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8163502,
+          -7.5687988370000001
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "Tempat" : "House Of Danar Hadi",
+        "y" : -7.5687988370000001,
+        "x" : 110.8163502
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8143922,
+          -7.568782884
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "Tempat" : "Museum Radya Pustaka",
+        "y" : -7.568782884,
+        "x" : 110.8143922
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.81301019999999,
+          -7.5685553280000004
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "Tempat" : "Taman Sriwedari Surakarta",
+        "y" : -7.5685553280000004,
+        "x" : 110.81301019999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8120382,
+          -7.5696138790000003
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "Tempat" : "Gedung Wayang Orang Sriwedari",
+        "y" : -7.5696138790000003,
+        "x" : 110.8120382
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8108084,
+          -7.5690693080000004
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "Tempat" : "Museum Keris Nusantara",
+        "y" : -7.5690693080000004,
+        "x" : 110.8108084
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8065137,
+          -7.5556204730000003
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "Tempat" : "Stadion Manahan",
+        "y" : -7.5556204730000003,
+        "x" : 110.8065137
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.80794059999999,
+          -7.5530572659999997
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "Tempat" : "Taman Balekambang Surakarta",
+        "y" : -7.5530572659999997,
+        "x" : 110.80794059999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.820032,
+          -7.5509407470000003
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "Tempat" : "Kali Pepe",
+        "y" : -7.5509407470000003,
+        "x" : 110.820032
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.82841120000001,
+          -7.5534826949999996
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "Tempat" : "Taman Cerdas Gilingan",
+        "y" : -7.5534826949999996,
+        "x" : 110.82841120000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.84210040000001,
+          -7.5372663930000003
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "Tempat" : "Taman Jayawijaya Mojosongo",
+        "y" : -7.5372663930000003,
+        "x" : 110.84210040000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8227756,
+          -7.5671124369999996
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "Tempat" : "Pura Mangkunegaran",
+        "y" : -7.5671124369999996,
+        "x" : 110.8227756
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8314124,
+          -7.5692927819999998
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "Tempat" : "Pasar Gede Hardjonagoro",
+        "y" : -7.5692927819999998,
+        "x" : 110.8314124
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8223325,
+          -7.5687398090000002
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "Tempat" : "Ngarsopuro Night Market",
+        "y" : -7.5687398090000002,
+        "x" : 110.8223325
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8225456,
+          -7.5691770610000004
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "Tempat" : "Pasar Triwindu Solo",
+        "y" : -7.5691770610000004,
+        "x" : 110.8225456
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8297322,
+          -7.5722340790000002
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "Tempat" : "Galabo Solo Night Culinary",
+        "y" : -7.5722340790000002,
+        "x" : 110.8297322
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.82703050000001,
+          -7.5752399869999998
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "Tempat" : "Pasar Klewer",
+        "y" : -7.5752399869999998,
+        "x" : 110.82703050000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.7959415,
+          -7.5705062590000001
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "Tempat" : "Ndalem Gondosuli",
+        "y" : -7.5705062590000001,
+        "x" : 110.7959415
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8163524,
+          -7.5704862019999997
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "Tempat" : "Tumurun Private Museum",
+        "y" : -7.5704862019999997,
+        "x" : 110.8163524
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8216011,
+          -7.5717104089999996
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "Tempat" : "Gatsu Corridor",
+        "y" : -7.5717104089999996,
+        "x" : 110.8216011
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8264162,
+          -7.5820930850000003
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "Tempat" : "Alun-Alun Kidul Surakarta",
+        "y" : -7.5820930850000003,
+        "x" : 110.8264162
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.80868030000001,
+          -7.564244693
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "Tempat" : "Dalem Kalitan",
+        "y" : -7.564244693,
+        "x" : 110.80868030000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.821392,
+          -7.5653098940000003
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "Tempat" : "Masjid Al-Wustho Mangkunegaran",
+        "y" : -7.5653098940000003,
+        "x" : 110.821392
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8276839,
+          -7.5781918140000002
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "Tempat" : "Keraton Kasunanan Surakarta",
+        "y" : -7.5781918140000002,
+        "x" : 110.8276839
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "Tempat" : " ",
+        "y" : 0,
+        "x" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.7955262,
+          -7.5577725940000002
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "Tempat" : "Lokananta Recording Audio & Video Cassette",
+        "y" : -7.5577725940000002,
+        "x" : 110.7955262
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "Tempat" : " ",
+        "y" : 0,
+        "x" : 0
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.79261150000001,
+          -7.5713840560000003
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "Tempat" : "Masjid Laweyan",
+        "y" : -7.5713840560000003,
+        "x" : 110.79261150000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.8094971,
+          -7.5670257960000002
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "Tempat" : "Loji Gandrung",
+        "y" : -7.5670257960000002,
+        "x" : 110.8094971
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          110.83066100000001,
+          -7.5718792600000002
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "Tempat" : "Benteng Vastenburg",
+        "y" : -7.5718792600000002,
+        "x" : 110.83066100000001
+      }
+    }
+  ]
+}
